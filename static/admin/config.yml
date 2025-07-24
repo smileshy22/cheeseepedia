@@ -23,7 +23,7 @@ collections:
     folder: "content/wiki/"
     preview_path: "wiki/{{filename}}"
     create: true
-    extension: html
+    extension: md
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
@@ -184,7 +184,7 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "transcriptions/{{filename}}/"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
       preview: true
@@ -192,6 +192,13 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
       - {label: "Tags", name: "tags", widget: "hidden", default: ["Transcriptions"]}
+      - label: "Contributors (List your Username here!)"
+        name: "contributors"
+        widget: "list"
+        required: true
+        min: 1
+        max: 1000
+        field: {label: Username, name: username, widget: string}
 
 
   - name: "users" # Used in routes, e.g., /admin/collections/blog
@@ -200,7 +207,7 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "users/{{filename}}"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
       preview: true
@@ -216,7 +223,7 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "meta/{{filename}}"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
       preview: true
@@ -230,7 +237,7 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "photos/{{filename}}"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
       preview: true
@@ -295,7 +302,7 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "videos/{{filename}}"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
       preview: true
@@ -367,7 +374,7 @@ collections:
     folder: "content/reviews/"
     preview_path: "reviews/{{filename}}"
     create: true
-    extension: html
+    extension: md
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
@@ -392,7 +399,7 @@ collections:
     folder: "content/news/"
     preview_path: "news/{{filename}}"
     create: true
-    extension: html
+    extension: md
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
