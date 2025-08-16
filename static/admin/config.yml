@@ -27,10 +27,10 @@ collections:
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Start Date (Formatted 2024-12-31, set to 0000-00-00 if Unknown, or use 00 for any parts unknown)", name: "startDate", widget: "string", required: false}
       - { label: "End Date (Leave blank if not ended, set to 0000-00-00 if Unknown)", name: "endDate", widget: "string", required: false}
       - { label: "Thumbnail (example.avif)", name: "pageThumbnailFile", widget: "string", required: false}
@@ -74,6 +74,11 @@ collections:
         widget: "list"
         required: false
         field: {label: Price | Desc, name: price, widget: string}
+      - label: "Market Sales (Price|Date|citationLink) ($4.99|2025-12-31|https://web.archive.org/ebay.com)"
+        name: "sales"
+        widget: "list"
+        required: false
+        field: {label: Sale | Desc, name: sale, widget: string}
       - label: "Transcriptions (List Transcription Article Titles)"
         name: "transcriptions"
         widget: "list"
@@ -187,7 +192,7 @@ collections:
     extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
@@ -210,7 +215,7 @@ collections:
     extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Username", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
@@ -226,7 +231,7 @@ collections:
     extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
@@ -240,7 +245,7 @@ collections:
     extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Filename", name: "title", widget: "string" }
       - { label: "Description (Don't put shortcodes like link or wiki-link here)", name: "description", widget: "text" }
@@ -305,7 +310,7 @@ collections:
     extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Video Link", name: "title", widget: "string" }
       - { label: "Description (Don't put shortcodes like link or wiki-link here)", name: "description", widget: "text" }
@@ -378,7 +383,7 @@ collections:
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: "Would You Recommend This?", name: "recommend", widget: "boolean", default: true, required: true}
       - { label: "Review Summary / Header", name: "title", widget: "string" }
@@ -403,7 +408,7 @@ collections:
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
