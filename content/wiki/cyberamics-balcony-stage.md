@@ -6,11 +6,11 @@ categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["CECBowlingGreen","The 64th Gamer","47.38.252.101","JamesLemony","Pench0782","ChuckEPediaIsTheBest!","2603:6011:5901:C300:D156:EA27:83B:60BC","CEC Tinley","Charlesiiikingofengland","2601:600:8F00:9940:60C0:2332:CAB:D81F","Ptt1977","Tux Chuck","PizzaEntertainmentFanX","CECMentor","Caydenpedia"]
-citations = ["[https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf](%22https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf"]
 pageThumbnailFile = "4AHaZAT6G5LA4CbzTY89.avif"
 +++
 The ***Balcony Stage* (known internally as ***The Stage*) was a cyberamics stage type used at {{< wiki-link "Pizza Time Theatre" >}} locations in replacement for {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}. It was installed from 1980 to 1986.
-The Stage debuted at the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}<sup>(1)</sup> location in May of 1980, and went extinct in 1993 at the {{< wiki-link "Edmonton, Alberta, Canada (9271 34th Ave)" >}} location. from 1988 to 1989, most Stages would become {{< wiki-link "Chuck E's House Facade" >}}.****
+The Stage debuted at the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}{{< cite 1 >}} location in May of 1980, and went extinct in 1993 at the {{< wiki-link "Edmonton, Alberta, Canada (9271 34th Ave)" >}} location. from 1988 to 1989, most Stages would become {{< wiki-link "Chuck E's House Facade" >}}.****
 
 ## History
 
@@ -61,7 +61,7 @@ The 'Munch Stage' (Nicknamed The 'Left Stage') was the area used for {{< wiki-li
 
 #### Main Stage/Center Stage
 
-The 'Main Stage' (Nicknamed The 'Center Stage') was the area used for {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}, {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}, & {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}. The area was placed over there middle of the Cheese-Crawl. The area would have Signage with the names of the characters placed. The area would have a Showtape specific Backdrop. The area would have Chuck's spot have an outward Balcony, with the rest of the character spots having no outward Balcony. The characters where placed like this, Jasper (Left), Chuck E. (Right), & The Guest Star (Right), though Jasper & The Guest Star would be in switched spots in the Showboat stage.
+The 'Main Stage' (Nicknamed The 'Center Stage') was the area used for {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}, {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}, & {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}}. The area was placed over there middle of the Cheese-Crawl. The area would have Signage with the names of the characters placed. The area would have a Showtape specific Backdrop. The area would have Chuck's spot have an outward Balcony, with the rest of the character spots having no outward Balcony. The characters where placed like this, Jasper (Left), Chuck E. (Right), & The Guest Star (Right), though Jasper & The Guest Star would be in switched spots in the Showboat stage.
 
 #### Pasqually Stage/Right Stage
 

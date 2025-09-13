@@ -6,16 +6,16 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1980-03-03"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = []
+citations = ["http://www.showbizpizza.com/rae/history/index.html"]
 pageThumbnailFile = "rcaOc6zQnQvOYQOvlPG6.avif"
 showtapeFormats = ["CEI 4-Track Reel"]
 alsoKnownAs = [""]
 +++
-The ***Wolfman Showtape* is a currently lost showtape that played in the first ShowBiz store Kansas City (Antioch), MO (2726 NE Vivion Rd) for the side {{< wiki-link "Wolfman Show" >}} hosted in the Electric Room.http://www.showbizpizza.com/rae/history/index.html**
+The ***Wolfman Showtape*** is a currently lost showtape that played in the first ShowBiz store Kansas City (Antioch), MO (2726 NE Vivion Rd) for the side {{< wiki-link "Wolfman Show" >}} hosted in the Electric Room.
 
 ## Segments
 
-10 segments are confirmed for the tape, but no segment or song names have been cited.<sup>(0)</sup>
+10 segments are confirmed for the tape, but no segment or song names have been cited.{{< cite 1 >}}
 
 1.  **Segment 1**
     1.  ???

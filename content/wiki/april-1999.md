@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1999-04-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Documentor","BurgersNuggs445","EagleScout610","2601:81:8500:E190:4D99:3FA7:CB9B:907B","Bullseye123","Cheeseclassic"]
-citations = ["","[https://www.youtube.com/watch?v=VTmxzgjgpmE](%22https://www.youtube.com/watch?v=VTmxzgjgpmE%22)","[https://www.youtube.com/watch?v=dSz9_hQ3ZJ4](%22https://www.youtube.com/watch?v=dSz9_hQ3ZJ4%22)"]
+citations = ["","https://www.youtube.com/watch?v=VTmxzgjgpmE","https://www.youtube.com/watch?v=dSz9_hQ3ZJ4"]
 pageThumbnailFile = "S2N4gk8W2iHK1iZo71ZE.avif"
 showtapeFormats = ["Studio C 4x Laserdisc + Files","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/details/april-1999-digital-audio-masters|Official Digital Audio Masters","https://archive.org/download/3stage_post_93_svhs_signals/April%201999%203-stage-011.iso|Post '93 3-Stage SVHS w/ Signals"]
@@ -20,12 +20,12 @@ The North Richland Hills, TX CEC is featured in the first segment. Chuck E. Town
 
 ### Unused Blue Screen Footage
 
-All the Studio C segments would be filmed by Brian Hagan with the Chuck E. animatronic in front of a blue screen. This was done in case blue screen footage was ever needed, but ultimately went unused.<sup>(1)</sup> These were filmed on DVCAM tapes.
-On December 23, 2021, all the unused footage would be uploaded to Brian's YouTube channel.<sup>(2)</sup>
+All the Studio C segments would be filmed by Brian Hagan with the Chuck E. animatronic in front of a blue screen. This was done in case blue screen footage was ever needed, but ultimately went unused.{{< cite 1 >}} These were filmed on DVCAM tapes.
+On December 23, 2021, all the unused footage would be uploaded to Brian's YouTube channel.{{< cite 2 >}}
 
 ### Digital Audio Masters
 
-The showtape's original stereo audio for all the segments and the live show would be preserved onto Digital Audio Tape. On March 4, 2022, Brian Hagan would upload the original DAT recordings to his YouTube channel<sup>(3)</sup>, while providing lossless FLACs of the audio to the community.
+The showtape's original stereo audio for all the segments and the live show would be preserved onto Digital Audio Tape. On March 4, 2022, Brian Hagan would upload the original DAT recordings to his YouTube channel{{< cite 3 >}}, while providing lossless FLACs of the audio to the community.
 
 ## Existing Show List
 

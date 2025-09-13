@@ -5,7 +5,7 @@ startDate = "2012-01-01"
 endDate = "0000-00-00"
 pageThumbnailFile = "yiyeZ9uOGZM5QAbMVtA8.avif"
 contributors = ["The 64th Gamer", "Documentor", "Ceclife13", "2607:FB91:1421:196F:71DA:F61C:403:F028", "MultiMonorail"]
-citations = ["[http://showbizpizza.com/info/documents/cec/cec_dept18-2012-12.pdf](%22http://showbizpizza.com/info/documents/cec/cec_dept18-2012-12.pdf%22)"]
+citations = ["http://showbizpizza.com/info/documents/cec/cec_dept18-2012-12.pdf"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator, Show Announcer", "Robert Gotcher - Director, Voice of Jasper T. Jowls, Show Announcer (Unused version only)"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/compress/january-show-2012-unused|Unused Original Audio", "https://archive.org/download/3stage_dvd_signals/January%202012%203-Stage-004.iso|3-Stage DVD ISO w/ Signals"]
@@ -13,7 +13,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
 **January 2012** is a compilation show featuring eight reused songs from 1999 - 2011 alongside newly recorded dialogue.
-This was created to play from January 1, 2012 - March 31, 2012, though was valid as a backup show until the end of 2012.<sup>(1)</sup> This was the final showtape to have Robert Gotcher involved in any capacity, though much of his work was altered or removed in the final release.
+This was created to play from January 1, 2012 - March 31, 2012, though was valid as a backup show until the end of 2012.{{< cite 1 >}} This was the final showtape to have Robert Gotcher involved in any capacity, though much of his work was altered or removed in the final release.
 
 ## Unused Version
 

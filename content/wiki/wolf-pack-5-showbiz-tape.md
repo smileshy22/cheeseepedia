@@ -6,14 +6,14 @@ categories = ["ShowBiz Pizza Place","Creative Engineering"]
 startDate = "1980-03-03"
 endDate = "0000-00-00"
 contributors = ["Sponch man","Himitsu","The 64th Gamer","2601:600:8F00:4620:452E:CE7B:7DCD:9F7B"]
-citations = ["[http://www.showbizpizza.com/rae/history/index.html](%22http://www.showbizpizza.com/rae/history/index.html%22)","[https://m.facebook.com/permalink.php?story_fbid=10150275198662312&id=101506232311](%22https://m.facebook.com/permalink.php?story_fbid=10150275198662312&id=101506232311%22)","[https://www.showbizpizza.com/review/rae/1982_abbeyroad.html](%22https://www.showbizpizza.com/review/rae/1982_abbeyroad.html%22)","[https://showbizpizza.fandom.com/wiki/The_Wolf_Pack_5](%22https://showbizpizza.fandom.com/wiki/The_Wolf_Pack_5%22)","[https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert](%22https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert%22)"]
+citations = ["http://www.showbizpizza.com/rae/history/index.html","https://m.facebook.com/permalink.php?story_fbid=10150275198662312&id=101506232311","https://www.showbizpizza.com/review/rae/1982_abbeyroad.html","https://showbizpizza.fandom.com/wiki/The_Wolf_Pack_5","https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert"]
 pageThumbnailFile = "wu8jjIKhWMoyAULrZwtz.avif"
 showtapeFormats = ["CEI 4-Track Reel"]
 alsoKnownAs = [""]
 +++
 ***The Wolf Pack 5 ShowBiz Tape* was a showtape made for the first ShowBiz Pizza Place location in March of
 1980.
-The tape was used until the Wolf Pack 5 was replaced with the Rock-afire Explosion.<sup>(1)</sup>**
+The tape was used until the Wolf Pack 5 was replaced with the Rock-afire Explosion.{{< cite 1 >}}**
 
 ## Summary
 
@@ -26,7 +26,7 @@ The announcer from the previous showtapes would open and close the show before a
 were recorded for him to accommodate the new segmented format. New songs were recorded to add more segments to the
 showtape. The replacement of Queenie with Mini Mozzarella also garnered some changes to the pre-existing recording of
 Dragstrip in the Sky. Since Mini Mozzarella received a new voice actor (Aaron Fechter), Dragstrip in the Sky was
-re-recorded with his voice instead of Queenie's original voice.<sup>(4)</sup> Additionally, a large portion of the
+re-recorded with his voice instead of Queenie's original voice.{{< cite 4 >}} Additionally, a large portion of the
 banter between the band members was scrapped.
 The entirety of the Wolf Pack 5 ShowBiz Tape can be viewed and heard [here](https://www.youtube.com/watch?v=UsVA1GIrXU8).
 
@@ -75,7 +75,7 @@ The entirety of the Wolf Pack 5 ShowBiz Tape can be viewed and heard [here](http
 - After performing Dog Gone to Love, Dingo Star says, "On behalf of the band and meself, I hope we passed the
   audition." This is a reference to The Beatles' rooftop concert, where, at the end of the concert, John Lennon
   said a similar line, stating, 'I'd like to say thank you on behalf of the group and ourselves, and I hope we've
-  passed the audition.'<sup>(5)</sup>
+  passed the audition.'{{< cite 5 >}}
 - Wipe Out, according to Wolfman, is specifically dedicated to the announcer.
 - 'Dog Gone to Love' takes heavy inspiration from the real-life band, [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and the various songs they wrote and
   performed. Some elements were directly lifted from various Beatles' songs to be incorporated into one song.

@@ -6,12 +6,12 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1987-11-16"
 endDate = "1988-01-00"
 contributors = ["The 64th Gamer","DerekCat"]
-citations = []
+citations = ["https://youtu.be/P1GhvBqbW0c?si=WR1wxSkwlyDhXArH"]
 pageThumbnailFile = "6gPEuflu5S3yAPONV6wA.avif"
 showtapeFormats = ["CEI 4-Track Reel"]
 alsoKnownAs = ["082-1287-01 ShowBiz Pizza Time, Inc. XMAS '87 SHOWTAPE Serial #000070 Deck - 6 11/16/87 - Master TAILWOUND"]
 +++
-***SPP Homely for Christmas* was a four segment Christmas tape released in November of 1987.**
+***SPP Homely for Christmas*** was a four segment Christmas tape released in November of 1987.
 
 ## Production
 
@@ -19,8 +19,8 @@ Segment 1's audio is confirmed to have been recorded in Aaron Fechter's kitchen 
 
 ### Looney Bird's Ave Maria
 
-The original dialogue for Segment 1 was going to have Looney Bird continue to refuse singing, but Rick Bailey, Shalisa Sloan, and Burt Wilson began to ad-lib additional taunting in the scene. Once Burt began voicing Looney Bird's mom in the crowd, Aaron had to pay off the build up with an on the spot rendition of Ave Maria. This causes the additional unscripted laughter and clapping afterwards, before the next take with Billy Bob is spliced in.<sup>(0)</sup>
-After the laughing, Aaron noted being insecure about the outcome of the scene and was thinking of redoing it, but Shalisa had him reconsider by saying 'I thought it was cute!'.<sup>(0)</sup>
+The original dialogue for Segment 1 was going to have Looney Bird continue to refuse singing, but Rick Bailey, Shalisa Sloan, and Burt Wilson began to ad-lib additional taunting in the scene. Once Burt began voicing Looney Bird's mom in the crowd, Aaron had to pay off the build up with an on the spot rendition of Ave Maria. This causes the additional unscripted laughter and clapping afterwards, before the next take with Billy Bob is spliced in.{{< cite 1 >}}
+After the laughing, Aaron noted being insecure about the outcome of the scene and was thinking of redoing it, but Shalisa had him reconsider by saying 'I thought it was cute!'.{{< cite 1 >}}
 
 ## Show List
 

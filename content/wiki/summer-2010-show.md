@@ -5,7 +5,7 @@ startDate = "2010-07-00"
 endDate = "2010-08-31"
 pageThumbnailFile = "RWEu4smi_OaDa7B0zYPf.avif"
 contributors = ["Documentor", "66.220.208.40", "The 64th Gamer", "68.115.107.230", "John95", "2600:6C46:4A00:A2F:81B0:627F:AD01:D2D1", "Ceclife13", "172.58.159.105", "2600:6C46:4A00:A2F:5510:397C:1D6D:FD70", "Dame0824"]
-citations = ["[http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-07.pdf](%22http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-07.pdf%22)"]
+citations = ["http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-07.pdf"]
 credits = ["Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/June%202010%203-Stage-003.iso|3-Stage DVD ISO w/ Signals"]
@@ -104,4 +104,4 @@ This show played from July - August 31, 2010.
 
 - Segment 1, and Segment 6 are reused from {{< wiki-link "Summer 2007 Show" >}}, 'Ain't Nothing Wrong With That', 'Ray of Sunshine', 'Hey, Soul Sister', and 'Magic' are reused from {{< wiki-link "April 2010 Show" >}}. VeggieTales - 'Song Of The Cebu' is reused from {{< wiki-link "Just for Kids Show 2000" >}}.
 - No puppet footage was reused for the Studio C version, and the Summer 2007 show logo was added to the April 2010 segments to replace the puppet footage for all stages.
-- This was Matt Daniel's first show after returning to the Entertainment Department. <sup>(1)</sup>
+- This was Matt Daniel's first show after returning to the Entertainment Department. {{< cite 1 >}}

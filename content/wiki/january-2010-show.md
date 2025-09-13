@@ -5,7 +5,7 @@ startDate = "2010-01-00"
 endDate = "2010-4-00"
 pageThumbnailFile = "H9SFBO59Zvmz6IQcWq8X.avif"
 contributors = ["The 64th Gamer", "Documentor", "Bullseye123", "Ceclife13", "66.220.208.40", "68.115.107.230", "2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
-citations = ["[http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-01.pdf](%22http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-01.pdf%22)"]
+citations = ["http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-01.pdf"]
 credits = ["Robert Gotcher: Director", "Michael Hill: Studio Coordinator", "Ryan Hollingsworth: Production Specialist"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/January%202010%203-Stage-008.iso|3-Stage DVD ISO w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/January%202010%20Studio%20C-004.iso|Studio C DVD 1 & 2 ISO"]
@@ -17,7 +17,7 @@ This played from January to April 2010.
 
 ## Cyberstar 2.00 Update for Studio C
 
-This update created contained a provision for initiating an alternate show schedule at a pre-defined time during the day. From the time the show is started until the pre-determined 'swap' time, (Which would be managed by the Entertainment Department) the controller will play shows from the primary schedule. After the 'swap' time has passed, the controller will revert to playing shows from the alternate schedule.<sup>(1)</sup>
+This update created contained a provision for initiating an alternate show schedule at a pre-defined time during the day. From the time the show is started until the pre-determined 'swap' time, (Which would be managed by the Entertainment Department) the controller will play shows from the primary schedule. After the 'swap' time has passed, the controller will revert to playing shows from the alternate schedule.{{< cite 1 >}}
 
 ## Studio C AM Schedule
 

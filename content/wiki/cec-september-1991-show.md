@@ -5,7 +5,7 @@ startDate = "1991-09-10"
 endDate = "1991-00-00"
 pageThumbnailFile = "n02eKh04LQEEbI5q3DMs.avif"
 contributors = ["The 64th Gamer", "Documentor", "DerekCat", "Cheeseclassic"]
-citations = ["[https://www.youtube.com/watch?v=VgsROB6xwb4](%22https://www.youtube.com/watch?v=VgsROB6xwb4%22)", "[https://youtu.be/YIwEWOMB2LI](%22https://youtu.be/YIwEWOMB2LI%22)", "[https://youtu.be/ZbSCCVqTd0A](%22https://youtu.be/ZbSCCVqTd0A%22)"]
+citations = ["https://www.youtube.com/watch?v=VgsROB6xwb4", "https://youtu.be/YIwEWOMB2LI", "https://youtu.be/ZbSCCVqTd0A"]
 showtapeFormats = ["3-Stage SVHS (Pre-93)", "C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)", "APS Files"]
 downloadLinks = ["https://archive.org/download/aps-yellow-case/Family%20Times%203-Stage%20%28Scrapped%20Sept%201991%29.IMA|Original 'Family Times' 3-Stage APS .IMA"]
 tags = ["Showtapes"]
@@ -44,7 +44,7 @@ Prior to the song being removed, the segments (excluding intermissions for clari
 >     2.  Daddy's Daddy
 
 The song itself was 2 minutes and 31 seconds long. The entire segment was *Comrade of Clean + Happy and You Know It + This Old Man* back to back, making the full length 5 minutes and 6 seconds. After Comrade of Clean's removal, *Responsibility* from segment 1 would replace it, and in its own place would be *Rhythm of the Night* from the previous year's {{< wiki-link "CEC September 1990 Show" >}}.
-The {{< wiki-link "Data" >}} for the show would be discovered in 2022 on the {{< wiki-link "1990-1992 APS Floppy Cases" >}} and presented without audio on July 21, 2022<sup>(1)</sup>. The audio for the segment would be discovered in mid-2023, and released on December 24th, 2023.<sup>(2)</sup> The first unveiling of the combined signals and audio would air a few minutes later.<sup>(3)</sup>
+The {{< wiki-link "Data" >}} for the show would be discovered in 2022 on the {{< wiki-link "1990-1992 APS Floppy Cases" >}} and presented without audio on July 21, 2022{{< cite 1 >}}. The audio for the segment would be discovered in mid-2023, and released on December 24th, 2023.{{< cite 2 >}} The first unveiling of the combined signals and audio would air a few minutes later.{{< cite 3 >}}
 
 ## Show List:
 

@@ -5,7 +5,7 @@ startDate = "2001-04-00"
 endDate = "2001-06-00"
 pageThumbnailFile = "hzwqBS_ykHsQIyUQG1hA.avif"
 contributors = ["The 64th Gamer", "John95", "Anastasia.laguardia", "Documentor", "Ceclife13", "CECMadison"]
-citations = ["[https://vimeo.com/33748276](%22https://vimeo.com/33748276%22)"]
+citations = ["https://vimeo.com/33748276"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper, Mike Manly, Betty, Show Announcer", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/April2001Upgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/April%202001%20Studio%20C-005.iso|Studio C DVD ISO"]
@@ -60,7 +60,7 @@ The show is notable for having only one song per segment (similar to Chuck E's V
 
 ## Production
 
-- Loren Soman created the CEC TV 3D bumper seen after the first segment.<sup>(1)</sup>
+- Loren Soman created the CEC TV 3D bumper seen after the first segment.{{< cite 1 >}}
 - The working title for this show was 'The Just for Kids Show II'.
 - The footage for 'Be My Friend' was filmed at the Orlando, FL (I-Drive) and Dallas, TX (Monfort) locations.
 

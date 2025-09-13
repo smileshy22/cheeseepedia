@@ -5,7 +5,7 @@ startDate = "2000-09-00"
 endDate = "2000-11-00"
 pageThumbnailFile = "II_jNqmGA1F7FlfiC2f2.avif"
 contributors = ["The 64th Gamer", "Ceclife13"]
-citations = ["[https://www.youtube.com/watch?v=k3lJRDHOySQ](%22https://www.youtube.com/watch?v=k3lJRDHOySQ%22)"]
+citations = ["https://www.youtube.com/watch?v=k3lJRDHOySQ"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls", "Brian Hagan - Studio Manager, Voiceover (Behind The Video)", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/September%202000%20Studio%20C.iso|Studio C DVD ISO"]
@@ -87,4 +87,4 @@ The **September 2000 Show** (also known as ***The Chuck E. Cheese Show*) was a s
   - Jeremy Blaido and Robert Gotcher can be seen in 'Behind The Video' The voiceover for this skit was done by Brian Hagan.
   - Matt Daniel is the DJ in 'Chuck E.' and a dancer in 'Drinkin' A Coca-Cola' alongside Ryan Hollingsworth.
 - The music for 'Football' and 'Flyball' is reused from {{< wiki-link "August 1997 Show" >}} and {{< wiki-link "September 1998" >}} respectively.
-- 'M.O.T.H.E.R.' got a remake with new voice actors in 2020 exclusively for YouTube.<sup>(1)</sup>
+- 'M.O.T.H.E.R.' got a remake with new voice actors in 2020 exclusively for YouTube.{{< cite 1 >}}

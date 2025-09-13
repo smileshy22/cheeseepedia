@@ -6,13 +6,13 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1989-11-15"
 endDate = "1990-00-00"
 contributors = ["Documentor","DerekCat","The 64th Gamer"]
-citations = ["[https://youtu.be/LEhPFhcc7T8](%22https://youtu.be/LEhPFhcc7T8%22)"]
+citations = ["https://youtu.be/LEhPFhcc7T8"]
 pageThumbnailFile = "PcbGX5xq9WsOxNGLWOXh.avif"
 showtapeFormats = ["ShowBiz SVHS"]
 alsoKnownAs = ["11/15/89 - Master HI-FI(C) 1989 S.P.T. CYBERSTAR"]
 +++
 ***SPP Christmas- '89 / Wave Bday* was a rerelease of SPP Homely for Christmas|SPP Homely For Christmas '88 in December 1989.
-The tape featured the Concept Unification Premiere Demo hidden at the end of the tape, not normally seen in regular playback but available for store employees to watch.<sup>(1)</sup>**
+The tape featured the Concept Unification Premiere Demo hidden at the end of the tape, not normally seen in regular playback but available for store employees to watch.{{< cite 1 >}}**
 
 ## Show List
 

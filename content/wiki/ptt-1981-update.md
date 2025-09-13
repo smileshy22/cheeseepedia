@@ -5,7 +5,7 @@ startDate = "1981-00-00"
 endDate = "1988-00-00"
 pageThumbnailFile = "mTPnP5N6B2eqFFumX3Wt.avif"
 contributors = ["BurgersNuggs445", "Cy's Junk at School", "Cheeseclassic"]
-citations = ["[https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-1.pdf](%22https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-1.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-1.pdf"]
 tags = ["Remodels and Initiatives"]
 categories = ["Pizza Time Theatre"]
 +++
@@ -13,7 +13,7 @@ categories = ["Pizza Time Theatre"]
 
 ## History
 
-In May 1981, it was announced that Pizza Time Theatre locations would be updating all of its existing registered trademarks along with announcing that San Francisco based, S&O Consultants<sup>(1)</sup> would be redesigning their logos, exteriors, décor, and signage. This package would roll out to locations through the summer of 1981.
+In May 1981, it was announced that Pizza Time Theatre locations would be updating all of its existing registered trademarks along with announcing that San Francisco based, S&O Consultants{{< cite 1 >}} would be redesigning their logos, exteriors, décor, and signage. This package would roll out to locations through the summer of 1981.
 
 ## Design
 

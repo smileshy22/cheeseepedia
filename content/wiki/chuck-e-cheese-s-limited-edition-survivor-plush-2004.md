@@ -6,13 +6,13 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2004-00-00"
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445"]
-citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_focus-2006-01.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_focus-2006-01.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/documents/cec/cec_focus-2006-01.pdf"]
 +++
 The ***Limited Edition Survivor Chuck E.* was an official product produced for prize counters in *2004.***
 
 ## Production
 
-Survivor Chuck E. received its first prototype in 2002, however wouldn't be released until 2004. Each location would most likely receive 12 plushies, like many limited editions after, to be on display and purchase for guests and would be on display until sold out.<sup>(1)</sup>
+Survivor Chuck E. received its first prototype in 2002, however wouldn't be released until 2004. Each location would most likely receive 12 plushies, like many limited editions after, to be on display and purchase for guests and would be on display until sold out.{{< cite 1 >}}
 
 ### December 11, 2002 Prototype
 

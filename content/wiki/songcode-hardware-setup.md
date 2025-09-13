@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","RessiduePezzzado"]
-citations = ["[http://www.showbizpizza.com/info/articles/cec/ptt_83grid.pdf](%22http://www.showbizpizza.com/info/articles/cec/ptt_83grid.pdf%22)","[https://cheeseepedia.org/w/index.php?title=File:Indastudio_ptt.png&filetimestamp=20220801023709&](%22https://cheeseepedia.org/w/index.php?title=File:Indastudio_ptt.png&filetimestamp=20220801023709&%22)"]
+citations = ["http://www.showbizpizza.com/info/articles/cec/ptt_83grid.pdf","https://cheeseepedia.org/w/index.php?title=File:Indastudio_ptt.png&filetimestamp=20220801023709&"]
 pageThumbnailFile = "EzVMGJzOWPwOdwwSMVJL.avif"
 +++
 The ***SongCode Hardware Setup* was the special setup used for controlling and programming animatronics at the second ever *Pizza Time Theatre* location, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, before its switch to {{< wiki-link "Cyberamics" >}} in 1980, where it would then be transferred to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}} for continued use and upgrades.**
@@ -21,7 +21,7 @@ The PDP-11 is the computer running the {{< wiki-link "SongCode" >}} software. It
 
 ### ADM-3a
 
-The ADM-3a was the visual display terminal for the entire system. It can be seen displaying {{< wiki-link "SongCode" >}}-like signal instructions in the Kooser news video.<sup>(0)</sup>
+The ADM-3a was the visual display terminal for the entire system. It can be seen displaying {{< wiki-link "SongCode" >}}-like signal instructions in the Kooser news video.{{< cite 1 >}}
 A large black device with a PTT label is seen on the back of the ADM-3a, in a spot connected exactly to the unit's rear RS-232 expansion port. The expansion unit likely had custom hardware for tape data I/O, and potentially controlling the tape deck being programmed on.
 
 ### CEC Tester
@@ -47,7 +47,7 @@ A metal button and dial are also found outside the embedded controller, it is un
 
 ### PDP 11/23 Upgrade
 
-Though much of the SongCode Control System's life at corporate is unknown, by 1983 its PDP-11 computer would be upgraded to a PDP 11/23, keeping the same architecture while drastically reducing the size.<sup>(1)</sup> A photo of the desk in June of 1983 also shows the red ADM-3a swapped out for a VT-100 variant, suggesting that the system upgrade happened before June.<sup>(2)</sup>
+Though much of the SongCode Control System's life at corporate is unknown, by 1983 its PDP-11 computer would be upgraded to a PDP 11/23, keeping the same architecture while drastically reducing the size.{{< cite 1 >}} A photo of the desk in June of 1983 also shows the red ADM-3a swapped out for a VT-100 variant, suggesting that the system upgrade happened before June.{{< cite 2 >}}
 
 ### Rock-afire Explosion Integration
 

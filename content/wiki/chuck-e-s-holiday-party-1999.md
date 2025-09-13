@@ -5,7 +5,7 @@ startDate = "1999-12-00"
 endDate = "1999-12-00"
 pageThumbnailFile = "4IoBenMsYGU9fgFHv2iq.avif"
 contributors = ["Ceclife13", "The 64th Gamer", "Documentor", "MultiMonorail"]
-citations = ["[https://youtu.be/5mqJMsr_PLU?t=6418](%22https://youtu.be/5mqJMsr_PLU?t=6418%22)"]
+citations = ["https://youtu.be/5mqJMsr_PLU?t=6418"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper, Betty, Mike Manly", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator", "Lynne Moon - Props Person"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/December%201999%20Studio%20C.ISO|Studio C DVD ISO"]
@@ -17,7 +17,7 @@ This show is known for being recalled due to one of its intermissions.
 
 ## No Ads Removal
 
-The 'Commercial Free Christmas' intermission included a 1-800 phone number. There was concern over if the number was real during production<sup>(1)</sup>, but the intermission was completed and included on the showtapes shipped to stores. Once stores received the show, Brian Hagan received a call from a tech that the number led to an 'adult' hotline. For Studio C locations, the intermission was removed quickly as those locations could be remotely accessed. For Existing Stage stores, new tapes had to be made and shipped to stores. The tapes were made and shipped in 24 hours, compared to the two weeks it would usually take around that time. Then, all stores were called and ordered to send the original tapes back.
+The 'Commercial Free Christmas' intermission included a 1-800 phone number. There was concern over if the number was real during production{{< cite 1 >}}, but the intermission was completed and included on the showtapes shipped to stores. Once stores received the show, Brian Hagan received a call from a tech that the number led to an 'adult' hotline. For Studio C locations, the intermission was removed quickly as those locations could be remotely accessed. For Existing Stage stores, new tapes had to be made and shipped to stores. The tapes were made and shipped in 24 hours, compared to the two weeks it would usually take around that time. Then, all stores were called and ordered to send the original tapes back.
 
 ## Existing Stages Show List:
 

@@ -6,21 +6,21 @@ categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Bowling for Cheese","Documentor","70.161.136.174","Ceclife13","Cy's Junk at School"]
-citations = ["[https://meraki.cisco.com/product/security-sd-wan/small-branch/mx67/](%22https://meraki.cisco.com/product/security-sd-wan/small-branch/mx67/%22)","[https://lsslogin.com/](%22https://lsslogin.com/%22)","[https://www.instagram.com/p/CgHORZnODuF/](%22https://www.instagram.com/p/CgHORZnODuF/%22)"]
+citations = ["https://meraki.cisco.com/product/security-sd-wan/small-branch/mx67/","https://lsslogin.com/","https://www.instagram.com/p/CgHORZnODuF/"]
 pageThumbnailFile = "bEys8qslC5qMEeF6cgSO.avif"
 +++
 The ***Navori System*, is a device that can be attached to the 3-Stage, {{< wiki-link "Cyberamics" >}}, {{< wiki-link "Studio C" >}}, and {{< wiki-link "Studio C HD" >}} for downloading showtape content through an internet connection.**
 
 ## Hardware
 
-The system is held on a Merkari MX67 SD-WAN unit.<sup>(1)</sup> The store's iPad is used to control the Navori system wirelessly, which can be used to select the current live show. This is done through an Intranet application that connects to the Navori QL Mobile<sup>(2)</sup> website.
+The system is held on a Merkari MX67 SD-WAN unit.{{< cite 1 >}} The store's iPad is used to control the Navori system wirelessly, which can be used to select the current live show. This is done through an Intranet application that connects to the Navori QL Mobile{{< cite 2 >}} website.
 
 ## History
 
 ### First Tests
 
 Four test stores, {{< wiki-link "Dallas, TX (7110 S Westmoreland Rd)" >}}, {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}}, {{< wiki-link "Grapevine, TX (2755 E Grapevine Mills Circle)" >}}, and {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}}, began testing the unit in either May or June of 2022 with the {{< wiki-link "Chuck E Cheese Summer of Fun 2022 Show" >}}. Presumably the stores also received the {{< wiki-link "Chuck E Cheese Summer Nights Show" >}}, though it is unclear how the show's specific timeslot of playing was incorporated into the system.
-The Dallas TX store was potentially picked due to it being scheduled for the 2.0 remodel on August 8th, allowing a test of a store going through a remodel with the unit. The unit played the normal showtape segments correctly, but reports of issues with either mismatched movements or corrupted signals were noted for live shows.<sup>(3)</sup>
+The Dallas TX store was potentially picked due to it being scheduled for the 2.0 remodel on August 8th, allowing a test of a store going through a remodel with the unit. The unit played the normal showtape segments correctly, but reports of issues with either mismatched movements or corrupted signals were noted for live shows.{{< cite 3 >}}
 
 ### Production
 

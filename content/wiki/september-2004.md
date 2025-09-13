@@ -5,7 +5,7 @@ startDate = "2004-09-00"
 endDate = "2004-11-25"
 pageThumbnailFile = "uUQilnJLlI9ds0l2teVt.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "68.115.107.230", "Hollyb", "Documentor", "John95", "BurgersNuggs445"]
-citations = ["[https://youtu.be/iGoWidEOlbc](%22https://youtu.be/iGoWidEOlbc%22)"]
+citations = ["https://youtu.be/iGoWidEOlbc"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Voice of Jasper T. Jowls, Pepperoni", "Robert Gotcher - Director, Show Announcer (Segment 3)", "Matt Daniel - Production Coordinator, Show Announcer (Segment 1), Songwriter 'What Up'", "Ryan Hollingsworth - Production Specialist"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Sept2004ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/September%202004%20Studio%20C.iso|Studio C DVD ISO"]
@@ -83,7 +83,7 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
 
 ## Going On a Diet
 
-A lost song called 'Going On a Diet' was removed from the showtape before its release. The song was a parody of ['She Blinded Me With Science'](https://en.wikipedia.org/wiki/She_Blinded_Me_with_Science) and was sung by Munch with Pasqually also having a small part. The video footage featured the band working out at a gym. The footage was later used with stock music in the April 2005 Show and a small clip of the song itself can be heard in a VJ spot in Best of CEC TV 2008. The song was intended for Segment 2 and was replaced by 'Go To Chuck E. Cheese' reused from the April 2002 show. It was cut due to corporate executives thinking it was insensitive.<sup>(1)</sup>
+A lost song called 'Going On a Diet' was removed from the showtape before its release. The song was a parody of ['She Blinded Me With Science'](https://en.wikipedia.org/wiki/She_Blinded_Me_with_Science) and was sung by Munch with Pasqually also having a small part. The video footage featured the band working out at a gym. The footage was later used with stock music in the April 2005 Show and a small clip of the song itself can be heard in a VJ spot in Best of CEC TV 2008. The song was intended for Segment 2 and was replaced by 'Go To Chuck E. Cheese' reused from the April 2002 show. It was cut due to corporate executives thinking it was insensitive.{{< cite 1 >}}
 
 ### File Dates
 - Studio C DVD: 8/10/04 7:28am

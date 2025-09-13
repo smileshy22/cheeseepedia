@@ -6,11 +6,11 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1983-09-09"
 endDate = "1983-11-24"
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.showbizpizza.com/info/articles/spp/spp_83dayton2.pdf](%22https://www.showbizpizza.com/info/articles/spp/spp_83dayton2.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/articles/spp/spp_83dayton2.pdf"]
 pageThumbnailFile = "d3SEFEyyRcm0wmwcXsIJ.avif"
 showtapeFormats = ["CEI 4-Track Reel"]
 downloadLinks = ["https://ia600506.us.archive.org/15/items/small-appliances-end-of-the-world-audio/Small%20Appliances%20-%20End%20of%20the%20World.mp3|Small Appliances / End of the World Outtake"]
-alsoKnownAs = ["CREATIVE ENGINEERING WST110-082583 WHITE ALBUM SHOWTAPE LOW SPEED TAILWOUND 082583", "CREATIVE ENGINEERING RWST1401-91983 WHITE ALBUM SHOWTAPE REVISED LOW SPEED TAILWOUND 091983"]
+alsoKnownAs = ["CREATIVE ENGINEERING WST110-082583 WHITE ALBUM SHOWTAPE LOW SPEED TAILWOUND 082583", "CREATIVE ENGINEERING RWST1401-91983 WHITE ALBUM SHOWTAPE REVISED LOW SPEED TAILWOUND 091983","CREATIVE ENGINEERING WST1505 WHITE ALBUM SHOWTAPE LOW SPEED TAILWOUND 082583"]
 +++
 *Beatles White Album* is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations on September 9 -
 November 24, 1983.
@@ -36,11 +36,11 @@ backs, with Burt Wilson replying 'Ah, they're going to get into appliances on th
 Earl directly mentions the Colander Head night taking place on Wednesday nights. This was because of the return of the
 Crazy Colander Head Night during {{< wiki-link "ShowBiz's Fabulous Fall Festival (Event)" "ShowBiz's Fabulous Fall Festival" >}}, where both White Album and the {{< wiki-link "Crazy Colander Head Night (Event)" "Crazy Colander Head Night" >}} showtape would be playing in the same weeks for the entirety of their run.
 This was originally meant to synergize the two showtapes, which was already being done by the inclusion of employee
-performances in 'Tribute to Frank Sinatra'.<sup>(0)</sup>
+performances in 'Tribute to Frank Sinatra'.{{< cite 1 >}}
 The segment in the end would be cut, but would still appear exclusively on Rock-afire Explosion Record 10
-(1983)|Rock-afire Explosion Record 10, minus the Small Appliances skit.<sup>(0)</sup> Oddly, 2 days before the event was
+(1983)|Rock-afire Explosion Record 10, minus the Small Appliances skit.{{< cite 1 >}} Oddly, 2 days before the event was
 planned to start, an interview with Aaron Fechter has him directly discussing the Small Appliances segment, implying it
-might have been cut very last minute.<sup>(1)</sup>
+might have been cut very last minute.{{< cite 1 >}}
 
 ### White Album Revised & ADAT Edit
 

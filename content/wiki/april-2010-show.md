@@ -5,7 +5,7 @@ startDate = "2010-04-00"
 endDate = "2010-06-00"
 pageThumbnailFile = "89Ji0k4_Kb0MqZjIfgfr.avif"
 contributors = ["The 64th Gamer", "Documentor", "BurgersNuggs445", "John95", "172.58.159.105", "Ceclife13", "2601:404:C101:5C70:20F2:575C:39D0:1766", "2600:6C46:4A00:A2F:5510:397C:1D6D:FD70", "68.115.101.83", "2600:1012:B048:26A9:90B0:716A:6B8B:88A", "Cy's Junk at School"]
-citations = ["[http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-04.pdf](%22http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-04.pdf%22)"]
+citations = ["http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-04.pdf"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Weichman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Deva George - Animator", "Dave Wilson - Songwriter"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/April%202010%203-stage-007.iso|3-Stage DVD ISO w/ Signals"]
@@ -110,4 +110,4 @@ This show played from April - June 2010.
 - Due to the amount of content on the existing DVD the live shows had to be put on a separate DVD, and stores were also allowed to use the January 2010 DVD for live shows. It is currently unknown what lives were on the DVD.
 - According to the *Valid Shows* section of the newsletter it states that the 'January Show Floppy' was allowed but doesn't mention the DVD for Studio C.
 - This is the only show in 2010 to have featured new content.
-- A brand new DVD #3 for Studio C was released for this show adding the current birthday show (Birthday 09) and new diagnostics for 16m and 32m bots. <sup>(1)</sup>
+- A brand new DVD #3 for Studio C was released for this show adding the current birthday show (Birthday 09) and new diagnostics for 16m and 32m bots. {{< cite 1 >}}

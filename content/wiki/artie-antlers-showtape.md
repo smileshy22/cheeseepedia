@@ -5,7 +5,7 @@ startDate = "1980-00-00"
 endDate = ""
 pageThumbnailFile = "0hQYlwZJF6STIfXN94fd.avif"
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.discogs.com/release/5506802-The-High-Time-Octet-The-High-Time-Octet](%22https://www.discogs.com/release/5506802-The-High-Time-Octet-The-High-Time-Octet%22)", "[http://www.showbizpizza.com/review/ptt/cabaret-lounge_artie1.html](%22http://www.showbizpizza.com/review/ptt/cabaret-lounge_artie1.html%22)", "[https://www.allmusic.com/artist/tom-salisbury-mn0000063612/credits](%22https://www.allmusic.com/artist/tom-salisbury-mn0000063612/credits%22)", "[https://en.wikipedia.org/wiki/William_%22Smitty%22_Smith](%22https://en.wikipedia.org/wiki/William_%22Smitty%22_Smith%22)"]
+citations = ["https://www.discogs.com/release/5506802-The-High-Time-Octet-The-High-Time-Octet", "http://www.showbizpizza.com/review/ptt/cabaret-lounge_artie1.html", "https://www.allmusic.com/artist/tom-salisbury-mn0000063612/credits", "https://en.wikipedia.org/wiki/William_%22Smitty%22_Smith"]
 credits = ["Artie Antlers VA|Jim Cunningham", "Pianist|Unknown"]
 showtapeFormats = ["Cyberamics Reel"]
 downloadLinks = ["https://archive.org/download/artie-antlers/Artie%20Antlers.wav|Showtape Reel w/ Signals"]
@@ -87,5 +87,5 @@ The ***Artie Antlers Showtape* is a showtape released for the {{< wiki-link "Art
 
 ## Production
 
-Jim Cunningham, a band member of *The High Time Octet*<sup>(1)</sup>, was flown from Denton, Texas to San Francisco by Pizza Time Theatre to record for the showtape. He would voice Artie Antlers, with the recording session lasting over the course of four days. <sup>(2)</sup>
+Jim Cunningham, a band member of *The High Time Octet*{{< cite 1 >}}, was flown from Denton, Texas to San Francisco by Pizza Time Theatre to record for the showtape. He would voice Artie Antlers, with the recording session lasting over the course of four days. {{< cite 2 >}}
 Jim states the pianist for the sessions was someone who had done work with the *Pointer Sisters*. Although 12 separate pianists have been credited under the Pointer Sisters by 1980, this could potentially be Tom Salisbury or William 'Smitty' Smith for their longer lasting and more recent work at the time for the band.<sup>(3)(4)</sup>
