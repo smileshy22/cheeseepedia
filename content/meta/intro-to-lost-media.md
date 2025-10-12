@@ -5,7 +5,7 @@ tags = ["Meta"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI"]
+citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html"]
 pageThumbnailFile = "sVafNbqLMdTt9xdrzhaK.avif"
 +++
 
@@ -14,6 +14,14 @@ Welcome to Cheese-E-Pedia! This introduction article will help you get started w
 The ***Lost Media*** of the animatronics community, also referred to as 'data' in it, is vast and full of interesting stories. Here is a list of notable things yet to be found.
 
 ## Pizza Time Theatre
+
+### Chuck E.'s First Announcement / Gospel of St. Pong
+Just before the opening of the first {{< wiki-link "Pizza Time Theatre" <}} location at {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}, a few months prior in February of 1977, a company-wide announcement made by Chuck E. Cheese would be published urging Atari employees to wait a bit longer for the restaurant to open due to delays with the city of San Jose. This would be the first known instance of anything published by the Pizza Time Theatre team, alongside the first known use of the name 'Chuck E. Cheese', which prior in October of 1976 was 'The Big Cheese' (Though it is likely this name change was done before the end of that year). {{< cite 5 >}}
+
+It is highly likely this announcement was through the Gospel of St. Pong newsletter, as in {{< wiki-link "The Gospel of St. Pong Revisited - Vol 4, April 1977" >}} later that year, Chuck E. directly talks to the reader about the upcoming Grand Opening Revue. The St. Pong newsletter is almost entirely lost, with only the first 4 pages of the April 1977 issue being found, and a few copies from 1973 being uploaded. It is possible that The Big Cheese had made an appearance in an even earlier newsletter, or additional notes about Pizza Time Theatre were included until PTT made their own paper with 'The Pizza Times' in December 1979.
+
+### Early Winchester/Kooser Documents
+A compilation of early {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} and Kooser documents were found to be owned by Gene Landrum titled the {{< wiki-link "PTT Basic Ordering Agreement" >}}. Pictures of 9 of the pages were taken in 2020, providing tons of insight into the development of Pizza Time Theatre, but the entire collection (which as currently known goes at least to 35 pages) was never preserved.
 
 ### Commercials
 In 1979 Pizza Time Theatre would do an ad campaign called the 'Great All-American Pizza Show'. This included the {{< wiki-link "The Great All-American Pizza Show! (Radio Ad)" >}}, which has been found, but also the {{< wiki-link "The Great All-American Pizza Show! (Commercial)" >}}, which has only had storyboards surface.
@@ -25,14 +33,22 @@ Finally, the {{< wiki-link "Pizza Time Theatre 1979 Animated Spot (Commercial)" 
 ### Kooser Main Show
 The {{< wiki-link "Kooser Main Show & Dolli Showtape" >}} is semi-lost showtape, being the debut tape of the second Pizza Time Theatre store, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}. Its Dolli portion has been widely available, as it was rereleased for {{< wiki-link "Cyberamics" >}} in 1979. The main portion however has only had a few snippets of its confirmed 12 segments available. Interestingly, shots of the programming room at Kooser during the supposed run of this tape shows two differently labeled tapes at different times. This suggests that either the main tape was copied due to wear, a revision of the tape was made, or an entirely new tape was created, meaning more lost media.
 
+### Pre-SongCode Signals / Software
+A collection of the earliest showtapes were produced on the {{< wiki-link "Winchester Hardware Setup" >}} at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location. While audio from these tapes have surfaced thanks to preservation efforts within Pizza Time Theatre, no trace of the signals or their software have been found. It is unclear how much of the formatting changed from the Winchester setup to the later {{< wiki-link "SongCode" >}} programs that lasted from 1978 to 1990.
+
+(Notably, the earliest SongCode signals recovered so far is a rerelease of the Christmas Medley segment, which first appeared in the {{< wiki-link "Sally 1 / Xmas / USA" >}} showtape in November of 1979.)
+
 ### Showboat
 {{< wiki-link "Showboat" >}} is another lost tape from {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, this time exlusively played during its debut of {{< wiki-link "Cyberamics" >}} in the week of April 21st-27th, 1980. A poster, advertisement, reviews, and a stage photo have been found, yet nothing from the actual tape has surfaced.
 
 ### Dr. Quack
 {{< wiki-link "Dr. Quack (Cyberamic)" >}} is a lost Cabaret test character that debuted at the {{< wiki-link "Simi Valley, CA (71 Tierra Rejada Rd)" >}} location in 1980. Their showtape is confirmed to have been made up children's songs and nursery rhymes. Two different designs of the character have also been seen, both at the Sunnyvale, CA offices. The character has often been confused with the name of the Pizza Time Theatre diagnostic showtapes, which are usually labeled "Dr. Dux Diagnostic" or "Dr. Duck's Diagnostic".
 
+### Electric Pizza
+{{< wiki-link "Electric Pizza" >}} is an obscure Pizza Time Theatre themed arcade cabinet likely tested at locations in the California area near the company's headquarters. The arcade was sold on eBay in 2013 from Napa, CA, and listed stating "I think this is one of the early hand-built prototypes". It is unclear if this was made in-house prior to 1983, or something Sente Technologies prototyped after being bought out by Pizza Time Theatre in '83. No direct gameplay is shown outside of screenshots of the cabinet turned on.
+
 ### Full Speed Ahead Revue Show
-{{< wiki-link "Full Speed Ahead Revue Show" >}} is a potential lost showtape that was exclusive to the {{< wiki-link "1982 PTT Convention (Event)" >}}, which debuted on October 2, 1982 at 8:30am in Hawaii. It is unclear if this was a show performed by the dressed up Chuck E. and Madame Oink costumes confirmed at the event, a video showtape of Cyberamics (The event features a video of Cyberamics in action later in the day), or actual Cyberamics were brought to the event.
+{{< wiki-link "Full Speed Ahead Revue Show" >}} is a potential lost showtape that was exclusive to the {{< wiki-link "1982 PTT Convention (Event)" >}}, which debuted on October 2, 1982 at 8:30am in Hawaii. It is unclear if this was a show performed by the dressed up Chuck E. and Madame Oink costumes confirmed at the event, or a video showtape of Cyberamics (The event features a video of Cyberamics in action later in the day, which disproves any being brought to the event.)
 
 ## Chuck E. Cheese's
 

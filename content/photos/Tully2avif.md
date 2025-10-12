@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
-description = ""
+pages = ["San Jose, CA (2445 Fontaine Rd)"]
+
 citations = []
 +++
