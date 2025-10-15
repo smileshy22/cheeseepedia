@@ -5,7 +5,7 @@ tags = ["Meta"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html"]
+citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html","https://youtu.be/ucg8MujPDQA","https://youtu.be/O92knC8wPhA?list=RDO92knC8wPhA","https://youtu.be/idJtxyMRlj4"]
 pageThumbnailFile = "sVafNbqLMdTt9xdrzhaK.avif"
 +++
 
@@ -16,12 +16,22 @@ The ***Lost Media*** of the animatronics community, also referred to as 'data' i
 ## Pizza Time Theatre
 
 ### Chuck E.'s First Announcement / Gospel of St. Pong
-Just before the opening of the first {{< wiki-link "Pizza Time Theatre" <}} location at {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}, a few months prior in February of 1977, a company-wide announcement made by Chuck E. Cheese would be published urging Atari employees to wait a bit longer for the restaurant to open due to delays with the city of San Jose. This would be the first known instance of anything published by the Pizza Time Theatre team, alongside the first known use of the name 'Chuck E. Cheese', which prior in October of 1976 was 'The Big Cheese' (Though it is likely this name change was done before the end of that year). {{< cite 5 >}}
+Just before the opening of the first {{< wiki-link "Pizza Time Theatre" >}} location at {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}, a few months prior in February of 1977, a company-wide announcement made by Chuck E. Cheese would be published urging Atari employees to wait a bit longer for the restaurant to open due to delays with the city of San Jose. This would be the first known instance of anything published by the Pizza Time Theatre team, alongside the first known use of the name 'Chuck E. Cheese', which prior in October of 1976 was 'The Big Cheese' (Though it is likely this name change was done before the end of that year). {{< cite 5 >}}
 
 It is highly likely this announcement was through the Gospel of St. Pong newsletter, as in {{< wiki-link "The Gospel of St. Pong Revisited - Vol 4, April 1977" >}} later that year, Chuck E. directly talks to the reader about the upcoming Grand Opening Revue. The St. Pong newsletter is almost entirely lost, with only the first 4 pages of the April 1977 issue being found, and a few copies from 1973 being uploaded. It is possible that The Big Cheese had made an appearance in an even earlier newsletter, or additional notes about Pizza Time Theatre were included until PTT made their own paper with 'The Pizza Times' in December 1979.
 
 ### Early Winchester/Kooser Documents
 A compilation of early {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} and Kooser documents were found to be owned by Gene Landrum titled the {{< wiki-link "PTT Basic Ordering Agreement" >}}. Pictures of 9 of the pages were taken in 2020, providing tons of insight into the development of Pizza Time Theatre, but the entire collection (which as currently known goes at least to 35 pages) was never preserved.
+
+### Winchester Special Tracks
+While it is believed that most, if not all of the first {{< wiki-link "Pizza Time Theatre Showtape" >}} is found and contained within the myriad of tracks on the recovered CDs it was found on, there are certainly special tracks not present on it. {{< wiki-link "The Gospel of St. Pong Revisited - Vol 4, April 1977" >}} notes that Four additonal special tracks could be played, described as 'special animated noise distracters programmed by the bartender', presuming that "programmed" implies scheduled, or potentially referring to the fact they would use Pasqually's announcement speakers to specify the occasion.
+
+- Birthdays
+- Graduations
+- Anniversaries
+- Marriages
+
+None of the audio for these is present on those CDs. Most likely the track 'Birthday One, Honey Bun', which was seen partially in the 1979 Winchester footage, is the birthday track, though not fully confirmed.{{< cite 7 >}} This version is also only sort of complete. The full skit was rereleased with Mr. Munch dubbed over Crusty later on, and most of the Crusty segments are heard in the video outside of the final song at the end. {{< cite 8 >}} What makes it unclear if the birthday was used for the opening in 1977 is that another birthday song was found for the Madame Oink showtape in 1978, showing new birthdays were already being recorded. {{< cite 9 >}}
 
 ### Commercials
 In 1979 Pizza Time Theatre would do an ad campaign called the 'Great All-American Pizza Show'. This included the {{< wiki-link "The Great All-American Pizza Show! (Radio Ad)" >}}, which has been found, but also the {{< wiki-link "The Great All-American Pizza Show! (Commercial)" >}}, which has only had storyboards surface.
